@@ -1,29 +1,12 @@
-# Q2 - SQL 与业务分析
+# Q2 - MySQL 8 SQL 与业务分析
 
-请在本目录下完成模块 2 的所有 SQL 题目。完整题目描述见根目录的 `README.md`。
+先运行根目录 `python download_data.py`，启动 MySQL 8 并准备数据库；本机的安装和重启方式见根目录 `MYSQL_LOCAL.md`。设置连接，例如 PowerShell：
 
-## 📦 期望产出
-
-```
-q2_sql_analysis/
-├── README.md                       # 本文件
-├── load_olist.py                   # （可选）把 9 张 CSV 灌进 MySQL 的脚本
-├── q2_1_translation_gap.sql        # 商品类别翻译完整性
-├── q2_2_monthly_metrics.sql        # 平台真实成交分析
-├── q2_3_top_sellers.sql            # 卖家维度分析
-└── q2_4_query_optimization.md      # 慢查询优化（分析文档）
+```powershell
+$env:MYSQL_URL='mysql+pymysql://用户名:密码@127.0.0.1:3306/olist'
+python q2_sql_analysis/setup_mysql.py
 ```
 
-## 💡 强制要求：MySQL 8.0+
+空数据库会导入九张表；九张表齐全时跳过导入并重新执行查询；只存在部分表时停止，避免覆盖。导入中途失败可能留下部分表，须检查后处理或使用新库。连接信息不要提交。查询结果输出到 `results/`，实际运行和对账详见 `validation_report.md`。
 
-本模块**必须使用 MySQL 8.0+**（团队生产数据库），不允许用 SQLite 等代替。
-
-
-## 🎯 评分关注点
-
-| 题 | 关注什么 |
-|----|----------|
-| Q2.1 | 是否找出 3 个未翻译的类别 |
-| Q2.2 | GMV 口径是否含 freight_value、NULL 送达时间是否正确处理 |
-| Q2.3 | 窗口函数使用、reviews 表去重、SQL 可读性 |
-| Q2.4 | 是否识别了 JOIN 后 SUM 翻倍的统计错误（**重点**）；MySQL 索引设计是否合理 |
+Q2.1 翻译缺失可保留葡语并标记待翻译（不丢信息但英文体验不一致）、统一显示 Unknown（简单但类别合并）、维护人工审核映射（可读但需维护）；应同时保留原文与翻译来源。
