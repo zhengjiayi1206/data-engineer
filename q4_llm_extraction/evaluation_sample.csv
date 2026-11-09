@@ -1,0 +1,37 @@
+﻿row_id,review_id,review_score,review_comment_message,reference_categories
+44606,e7c054f53e3bf6882ed9fe134ed85e1e,1,"O produto não foi entregue, nem me deram satisfação após a reclamação da demora. ",other|seller_communication
+40262,cf0d5d014c04885513ca3e50db9242a6,1,"Boa tarde,
+Os produtos foram entregues ontem em pleno domingo, no qual nao haviam pessoas responsáveis pelo recebimento de mercadorias, o qual ficaram faltando 4 cadeiras.",missing_item
+96823,bc462fa81c4a6cdf26c36ec388874f48,3,"A greve dos caminhoneiros afetou diretamente o serviço de entregas de encomendas, mas estou no aguardo. ",
+94714,eacb9e8bda12baa5720c268ca99435f0,1,fiz duas compras no mesmo dia um travesseiro e uma vassoura o travesseiro chegou antes do prazo a vassoura que a entrega é pelos correio não chegou ate agora o correio não tem responsabilidade ,other
+54127,e8bb97b6b648d64956948ece5f544489,3,Muito bom a compra,
+47554,a835df6512274842927b3c7e45dc9e60,1,"comprei dois pares de sandálias,mais só recebi um par.
+em outra compra que fiz,mais dois pares de sandalias ,rebi.mais com os numeros errados,pedi numeros das duas 39/40 me mandaram 41 e outra 42,mai",missing_item|wrong_product
+15034,ffad2d6fdb394ea1330c3aeb36528d59,1,"Produto pago, mas não houve entrega até agora.",other
+71428,105facb42b5b9147996f0b1b6fbf7b80,1,"Holá!
+Não recebi o produto é nem um telefonema referente ao que comprei.",other
+17112,077a84be3ff4a3032abf96dc389c640e,1,"Estou achando que está demorando muito.Gostaria de saber porque.Ja passou do prazo.Aguardo tetorno
+",delivery_late
+14054,c04a1e704e352b6e8ca18783b98853af,3,"Entregaram bem rapido, mais Só não gostei pq veio com defeito (duas manchas ) na cara da boneca.",quality_defect
+41879,eb8ba0080f2d7da6a5391438a8756111,2,"Sem garantia, vou levar numa loja pra saber se é original ",other
+66215,c330ffe4bae424cd74f18105f1b405f6,3,"Recebi o produto no prazo porém a nota fiscal foi extraviada, gostaria que a empresa disponibilizasse via email ou mesmo no portal lannister",other
+61975,6bd7685fa37d93f87a915a4b032d4b6d,1,"Não tenho certeza, pois ainda não recebi o produto.",other
+89569,28ab5f5b112efe2a2f4582bf4d070485,3,Eu ainda não recebi o produto para avaliviar a nota ,other
+53423,47ec5d023e9d871306980f5c689c6a8c,1,Não recebi meu produto ainda!,other
+83222,c133a1288ad5b2e3b40e878fd86dd20d,3,Não sabia que eram quadrinhos para emoldurar. Isso deveria estar nas informações do produto.,other
+44587,380c5013b8f730f992f4eac1107fd4bc,3,A parte da capa onde fica os botões de volume e liga/desliga acionam mais de um botão ao mesmo tempo.,quality_defect
+67199,c9a369ece58998f19bed1ee70db6297b,1,Nota zero. Pedimos 3 unidades veio apenas 1 unidade,missing_item
+24989,6006de8846364de064fbcec805ec6a7d,1,"Não tenho informações nenhuma do meu pedido, se vou recebe-lo ou o problema que aconteceu. Não consigo contato para essas devidas informações.",seller_communication
+90394,f7c0d3bdf02dc38b059df935e7659c12,2,"Não recebi o produto ainda, peço ajuda.",other
+38479,444d9dcb28e9b964627314fe5873a1e1,1,"Fiz a compra de 2 aparelhos de mp3 e só chegou 1.
+Mandei e-mail reclamando para que me enviasse o produto faltante ou a devolução do dinheiro mais não obtive resposta.",missing_item|seller_communication
+73005,cb2ec025f56cc52bd872eb19f435869b,1,"ainda nao recebi o produto e nao consigo gerar vale para comprar outro.
+exijo atenção para meu caso.",other
+64567,70d1474f99a6bf0c79f654f8844ba404,1,enrolaram para entregar,delivery_late
+52358,e1a424695e403367e373d7354d1724b7,3,O produto é compatível com o preço.,
+39864,0ad466248b9abc8065cb5f08cc613c87,1,"Nao recebi o produto, e nem ao menos uma satisfação da loja targaryen, e até mesmo das Lojas lannister, visto que já abri 3 reclamações do mesmo, e nao recebi ao menos uma satisfação. Péssimoooo",other|seller_communication
+94088,29e6acb07b6dbed84c95d981d2aaf489,3,Material fragil e com cheiro ruim,quality_defect
+42273,1b2908c2edd4d031918167cfd15aab2b,3,"Me entregaram só três arranhadores, eu comprei quatro, está faltando um.",missing_item
+76875,29978e0295beaafa1d774ee406272040,1,O produto estava quebrado.,quality_defect
+5342,22c417c4ea6e742c0208dfea13e089a3,1,"O produto não é o que eu esperava, mas serve",
+17354,af3e49496fc86e553113e545869ca2b9,1,"vou terminar de pagar a mercadoria e não recebi, muito insatisfeito com a compra.",other

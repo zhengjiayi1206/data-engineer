@@ -1,0 +1,11 @@
+{
+  "input_tokens": 932474,
+  "output_tokens": 2068197,
+  "calls": 1426,
+  "uncertain_calls": 0,
+  "reserved_yuan": 0.0,
+  "elapsed_prior": 598.07,
+  "untracked_yuan": 4.0,
+  "estimated_yuan": 10.3301111,
+  "elapsed_seconds": 601.62
+}
